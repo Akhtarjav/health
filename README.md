@@ -4,6 +4,7 @@ Briefly describe the vision and purpose of your project. What problem does it so
 
 Flowchart
 Include a high-level flowchart or diagram illustrating how different components of your project interact. This helps readers understand the overall architecture.
+![Uploading image.png…]()
 
 !Flowchart
 
